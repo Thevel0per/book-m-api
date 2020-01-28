@@ -17,7 +17,7 @@
 	<description>Project of an API used with Angular7 Front-End of my &quot;Book Manager&quot; application.</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 
 	<dependencies>
